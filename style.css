@@ -1,0 +1,70 @@
+
+header {
+    position: relative;
+}
+nav {
+    display: inline-block;
+    /* float: right;
+    margin-bottom: 40px; */
+    position:absolute;
+    right: 0;
+    bottom: 22px;
+}
+main .par1{
+    display: inline-block;
+}
+main .printimg {
+    float: right;
+}
+
+hr {
+    display:block;
+    border:0px;
+    height:10px;
+    background-image: url(https://raw.githubusercontent.com/LTUC/amman-201d22/main/class-10/lab-a/lab-assets/hr-img.png);	
+}
+
+.part2 h3{
+    display: inline;
+    vertical-align: top;
+}
+.part2 p{
+    display: inline;
+    margin-left: -140px;
+    /* vertical-align: top; */
+}
+.part2 a{
+    text-decoration: none;
+    border: 1px solid red;
+    background-color: red;
+    color: wheat;
+    padding: 10px;
+    float:right;
+}
+
+footer{
+    margin-top: 30px;
+    border-top: 2px solid black;
+    text-align: center;
+}
+
+section.par1{
+    position: relative;
+}
+#form1 {
+    position: absolute;
+    bottom: -400px;
+    left: 59px;
+    padding: 10px;
+    margin: 20px;
+}
+#form2 {
+    position: absolute;
+    right: 680px;
+    bottom: -370px;
+}
+    
+.chocodiv img {
+ display: inline-block;
+margin-left: 20%;
+}
